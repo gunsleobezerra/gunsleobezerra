@@ -22,13 +22,18 @@ Desenvolvedor full-stack com experiência que vai de **baixo nível (C / Assembl
 
 ## 🛠️ Stack & habilidades
 
-**Linguagens:** Python · JavaScript/TypeScript · C · C# · PHP · Java · Assembly
-
-**Stack principal (dia a dia):** React/Vite (PWA) · NestJS (Node.js) · PostgreSQL + PostGIS · DuckDB · Coolify (deploy em VPS)
-
-**Front-end:** React · Vue · Vite · HTML/CSS
-
-**Back-end & dados:** Node.js · NestJS · PostgreSQL · PostGIS · Neo4j · GraphQL · DuckDB
+![](https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/VITE-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/NESTJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/POSTGRESQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/POSTGIS-4169E1?logo=postgis&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/DUCKDB-FFF100?logo=duckdb&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/UNITY-100000?logo=unity&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 **IA / ML:** Whisper (ASR) · Ollama · modelos generativos · tracking de objetos
 
