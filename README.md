@@ -60,4 +60,5 @@ Desenvolvedor full-stack com experiência que vai de **baixo nível (C / Assembl
 ## 📫 Como me encontrar
 
 - GitHub: [@gunsleobezerra](https://github.com/gunsleobezerra)
-- Site: [gunsleobezerra.github.io](https://gunsleobezerra.github.io)
+- Site: [leobezerra.com.br](leobezerra.com.br)
+- Email: leo@leobezerra.com.br
