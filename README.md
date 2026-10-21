@@ -24,9 +24,11 @@ Desenvolvedor full-stack com experiência que vai de **baixo nível (C / Assembl
 
 **Linguagens:** Python · JavaScript/TypeScript · C · C# · PHP · Java · Assembly
 
+**Stack principal (dia a dia):** React/Vite (PWA) · NestJS (Node.js) · PostgreSQL + PostGIS · DuckDB · Coolify (deploy em VPS)
+
 **Front-end:** React · Vue · Vite · HTML/CSS
 
-**Back-end & dados:** Node.js · PostgreSQL · Neo4j · GraphQL · DuckDB
+**Back-end & dados:** Node.js · NestJS · PostgreSQL · PostGIS · Neo4j · GraphQL · DuckDB
 
 **IA / ML:** Whisper (ASR) · Ollama · modelos generativos · tracking de objetos
 
